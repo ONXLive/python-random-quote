@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Coding is a second language
+Ruby is such a gem
+uuuuuuuuuuuuuuh
