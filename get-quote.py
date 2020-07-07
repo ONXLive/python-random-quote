@@ -7,7 +7,7 @@ def primary():
   f.close()
   f = open("quotes.txt")
   quotes = f.readlines()
-  last = 13
+  last = len(quotes)
   rnd = random.randint(0, last)
   print(quotes[rnd])
 
